@@ -18,7 +18,7 @@ const routes: Array<RouteRecordRaw> = [
     },
   },
   {
-    path: "/api",
+    path: "/open_api",
     name: "api",
     component: () => import("@/pages/OpenApi.vue"),
     meta: {
