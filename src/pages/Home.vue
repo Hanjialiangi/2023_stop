@@ -23,6 +23,6 @@ const name = computed(() => $store.state.name)
     <Layout :imgUrl="imgUrl" :text="text" :name="name" :pathname="pathname"/>
 </template>
 
-<style scoped lang="sass">
+<style scoped lang="scss">
 
 </style>

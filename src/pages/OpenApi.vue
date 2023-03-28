@@ -4,4 +4,4 @@
 <script lang ="ts" setup>
 document.title="开放API"
 </script>
-<style lang="sass" scoped></style>
+<style lang="scss" scoped></style>

@@ -1,7 +1,8 @@
 <template>
-    <div>home</div>
+    <WordCloud/>
 </template>
 <script lang ="ts" setup>
+import WordCloud from '@/components/WordCloud.vue'
 document.title="首页"
 </script>
-<style lang="sass" scoped></style>
+<style lang="scss" scoped></style>
